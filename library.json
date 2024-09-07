@@ -19,5 +19,13 @@
     "license": "MIT",
     "dependencies": {},
     "frameworks": ["arduino"],
-    "platforms": ["Arduino-uno"]
+    "platforms": ["Arduino-uno"],
+    "examples": [{
+        "name": "main",
+        "base": "examples/main.cpp",
+        "files": [
+            "platformio.ini",
+            "include/joystick.h"
+        ]
+    }]
   }
