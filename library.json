@@ -21,7 +21,7 @@
     "frameworks": ["arduino"],
     "platforms": ["Arduino-uno"],
     "examples": [{
-        "name": "main",
+        "name": "main.cpp",
         "base": "examples/main.cpp",
         "files": [
             "platformio.ini",
