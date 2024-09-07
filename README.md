@@ -16,6 +16,8 @@ lib_deps =
 
 There is example in the library page in the platformIO registery.
 
+after download use '#include <joystick.h>' to use the library.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
