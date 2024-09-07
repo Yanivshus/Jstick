@@ -1,0 +1,21 @@
+{
+    "name": "Jstick-arduino",
+    "version": "1.0.0",
+    "description": "light library to get input from a joystick, arduino only.",
+    "keywords": "joystick,input",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Yaniv Shusterman",
+        "email": "yanivshus@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+  }
